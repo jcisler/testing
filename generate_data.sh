@@ -3,6 +3,8 @@
 
 #adding for commit checks
 
+#this is fun
+
     touch file1.txt
 for i in {0..10} ;
     let j=i+1
