@@ -1,0 +1,500 @@
+   33  ls
+   34  cd jedidahcherie
+   35  cd .ipython
+   36  cd profile_default
+   37  vi ipython_config.py
+   38  pwd
+   39  emacs ipython_config.py
+   40  emacs ipython_config.py
+   41  emacs ipython_config.py
+   42  emacs ipython_config.py
+   43  cd 
+   44  cd /Users/jedidahcherie/Desktop/
+   45  ls
+   46  cd ../
+   47  ls
+   48  cd Public/
+   49  ls
+   50  cd ..
+   51  ls
+   52  cd /Applications/
+   53  ls
+   54  cd pip-1.1/
+   55  pwd
+   56  sudo python setup.py install
+   57  pip install asciitable
+   58  ls
+   59  echo $PYTHONPATH
+   60  echo PYTHONPATH
+   61  python
+   62  which python
+   63  cd /Library/Frameworks/
+   64  ls
+   65  cd Python.framework/
+   66  ls
+   67  cd Python 
+   68  ls
+   69  python
+   70  cd
+   71  cd /Applications/pip-1.1/
+   72  sudo pip install asciitable
+   73  cd
+   74  pwd
+   75  cd Desktop/
+   76  cd ../Documents/
+   77  cd Python\ Bootcamp/
+   78  emacs fermi_agn.dat &
+   79  emacs fermi_agn.dat &
+   80  emacs test.dat &
+   81  emacs test.dat 
+   82  mv test.dat fermi_agn.dat
+   83  emacs fermi_agn.dat 
+   84  ls
+   85  display fig1.png 
+   86  gv fig1.png 
+   87  emacs fermi_agn_with_z.dat 
+   88  ls
+   89  mkdir py4ast
+   90  mv fermi_agn* py4ast/
+   91  ls
+   92  mv fit.png py4ast/
+   93  mv fig1.png py4ast/
+   94  ls
+   95  emacs ripple.py
+   96  mv ripple.py py4ast/
+   97  which LaTex
+   98  cd /Library/texmf
+   99  cd /Library/
+  100  ls
+  101  cd ~/Library/TeXShop
+  102  ls
+  103  cd ..
+  104  ls
+  105  ipython notebook
+  106  ls
+  107  cd /Users/jedidahcherie/
+  108  cd Documents/Python\ Bootcamp/
+  109  ls
+  110  cd py4ast/
+  111  ls
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd Python\ Bootcamp/
+  118  ls
+  119  cd py4ast/
+  120  ls
+  121  cp /Users/jedidahcherie/Downloads/py4ast/core/ .
+  122  cp -r /Users/jedidahcherie/Downloads/py4ast/core/ .
+  123  ls
+  124  gunzip 3c120_stis.fits.gz 
+  125  ls
+  126  emacs bouce.py
+  127  ls
+  128  mv bouce.py bounce.py
+  129  emacs bounce.py &
+  130  emacs bounce.py 
+  131  ipython notebook
+  132  emacs bounce.py 
+  133  python --version
+  134  cd /Library/Frameworks/Python.framework/Versions/
+  135  cd /Applications/
+  136  ls
+  137  cd Enthought/
+  138  ls
+  139  cd /Library/Frameworks/Python.framework/Versions/
+  140  sudo remove-EPD-7.3-1
+  141  sudo remove-EPD-7.3-1
+  142  cd ..
+  143  cd ..
+  144  cd
+  145  ls
+  146  cd /Applications/Enthought/
+  147  ls
+  148  cd /Users/jedidahcherie/
+  149  ls
+  150  cd Documents/Python\ Bootcamp/
+  151  ls
+  152  cd py4ast/
+  153  ls
+  154  emacs bounce.py 
+  155  python --version
+  156  echo $PYTHONPATH
+  157  emacs ~./bash_profile
+  158  emacs ~/.bashrc
+  159  emacs ~/.bash_profile
+  160  ls
+  161  pwd
+  162  cd ../../
+  163  ls
+  164  pwd
+  165  cd ..
+  166  ls
+  167  pwd
+  168  cd Library/
+  169  ls
+  170  python
+  171  echo $PYTHONPATH
+  172  ipython
+  173  pwd
+  174  mkdir Pythonlib
+  175  ls
+  176  emacs ~/.bash_profile&
+  177  emacs ~/.bash_profile
+  178  emacs ~/.bash_profile
+  179  source ~/.bash_profile
+  180  echo $PYTHONPATH
+  181  cd /Library/
+  182  ls
+  183  pwd
+  184  pwd
+  185  cd /Users/jedidahcherie/Library/Pythonlib/
+  186  python
+  187  echo $PYTHONPATH
+  188  emacs ~/.bash_profile
+  189  source ~/.bash_profile
+  190  emacs ~/.bash_profile
+  191  source ~/.bash_profile
+  192  emacs ~/.bash_profile
+  193  source ~/.bash_profile
+  194  echo $PYTHONPATH
+  195  python
+  196  cd $PYTHONPATH 
+  197  emacs physics.py 
+  198  emacs helpers.py
+  199  cd /Users/jedidahcherie/Documents/Python\ Bootcamp/py4ast/
+  200  echo $PYTHONPATH
+  201  cd $PYTHONPATH 
+  202  ls
+  203  pushd /Users/jedidahcherie/Documents/Python\ Bootcamp/py4ast/
+  204  emacs ~/.bash_profile
+  205  pushd
+  206  mv physics.py Physics.py
+  207  pushd
+  208  pushd
+  209  emacs Physics.py 
+  210  pushd
+  211  pwd
+  212  pushd
+  213  pwd
+  214  emacs ~/.bash_profile
+  215  echo $PYTHONPATH
+  216  pwd
+  217  emacs ~/.bash_profile
+  218  source ~/.bash_profile
+  219  ipython --pylab
+  220  /System/Library/Frameworks/JavaVM.framework/Versions/A/Commands/java ; exit;
+  221  if config
+  222  ifconfig
+  223  ifconfig
+  224  ifconfig | grep inet
+  225  free
+  226  top
+  227  ssh astro9.astro.yale.edu
+  228  emacs .bashrc &
+  229  pwd
+  230  cd
+  231  pwd
+  232  cd /home/
+  233  ls
+  234  emacs .bashrc &
+  235  ls
+  236  ls .*
+  237  cd usr
+  238  ls
+  239  emacs /usr/.bashrc &
+  240  ssh jci3@pegasus.astro.yale.edu
+  241  cd /etc
+  242  ls
+  243  cd apache2/
+  244  ls
+  245  vim httpd.conf
+  246  cd /usr
+  247  ls
+  248  cd local
+  249  ls
+  250  ssh astro9.astro.yale.edu
+  251  ssh -l jci3 astro9.astro.yale.edu
+  252  ls
+  253  cd .nx
+  254  ls
+  255  cd .nx
+  256  ls
+  257  cd cache-kde/
+  258  ls
+  259  mv ~/.nx ~/.nx-save
+  260  mv ~/.nx-save ~./nx
+  261  mv ~/.nx-save ~/.nx
+  262  cd .nx
+  263  cd .nx-save
+  264  ls .*
+  265  ls ./nx-save
+  266  ls /.nx-save
+  267  pwd
+  268  cd ..
+  269  cd ..
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd .nx
+  274  ls
+  275  cd ./nx-save
+  276  cd pwd
+  277  pwd
+  278  ls
+  279  cd config/
+  280  ls
+  281  cd ../temp
+  282  ls
+  283  cd ..
+  284  cd .nx-save
+  285  ls
+  286  pwd
+  287  cp S-astro9.astro.yale.edu-1128-09BBB5FD00F3ABA68E776B04C0C113E3/ ../
+  288  mv S-astro9.astro.yale.edu-1128-09BBB5FD00F3ABA68E776B04C0C113E3/ ../
+  289  ls
+  290  mv cache-kde/ ../
+  291  ls
+  292  cd ...
+  293  cd ..
+  294  ls
+  295  cd cache-kde/
+  296  ls
+  297  cd 
+  298  ls
+  299  cd .nx
+  300  ls
+  301  cd .nx
+  302  ls
+  303  cd S-astro9.astro.yale.edu-1129-2A5997D0D55368ED5FBBD51398620809/
+  304  ls
+  305  cd session 
+  306  ls
+  307  more session 
+  308  ls
+  309  cd options 
+  310  more options 
+  311  more stats 
+  312  more errors 
+  313  ls
+  314  pwd
+  315  cd ..
+  316  cd cache-kde/
+  317  ls
+  318  pwd
+  319  mv S-9E58F296DACFEA59ED35612FCE39143E S-9E58F296DACFEA59ED35612FCE39143E -save
+  320  mv S-9E58F296DACFEA59ED35612FCE39143E S-9E58F296DACFEA59ED35612FCE39143E-save
+  321  ls
+  322  pwd
+  323  cd ..
+  324  ls
+  325  cd config/
+  326  ls
+  327  more astro9.nxs 
+  328    ls
+  329  cd ..
+  330  ls
+  331  mv S-astro9.astro.yale.edu-1129-2A5997D0D55368ED5FBBD51398620809/ S-astro9.astro.yale.edu-1129-2A5997D0D55368ED5FBBD51398620809-save/
+  332  ls
+  333  cd .nx
+  334  ls
+  335  cd ..
+  336  mv ~/.nx ~/.nx-save
+  337  ls
+  338  cd .nx
+  339  ls
+  340  cd ..
+  341  cd .nx-save/
+  342  ls
+  343  cd ../.nx
+  344  ls
+  345  mv S-astro9.astro.yale.edu-1129-2A5997D0D55368ED5FBBD51398620809/ S-astro9.astro.yale.edu-1129-2A5997D0D55368ED5FBBD51398620809-sve/
+  346  ls
+  347  cd cache-kde/
+  348  ls
+  349  mv S-F3A0108DD750AB7241481CA8EA7DFAC8 S-F3A0108DD750AB7241481CA8EA7DFAC8-save
+  350  cd ..
+  351  cd ..
+  352  ls -a
+  353  mv ~/.nx ~/.nx-old
+  354  ls -a
+  355  ls -a
+  356  cd .nx
+  357  ls
+  358  cd cache-kde/
+  359  ls
+  360  cd ..
+  361  cd config/
+  362  ls
+  363  cd astro9.nxs 
+  364  ls
+  365  more astro9.nxs 
+  366  ssh -l jci3 astro9.astro.yale.edu
+  367  ls
+  368  cd ..
+  369  ls
+  370  pwd
+  371  ssh -l jci3 astro9.astro.yale.edu
+  372  exit
+  373  cd .nx
+  374  ls
+  375  ssh -l jci3 asro9.astro.yale.edu
+  376  ssh -l jci3 astro9.astro.yale.edu
+  377  exit
+  378  emacs .profile
+  379  more .profile
+  380  pwd
+  381  cd ..
+  382  ls
+  383  more .profile
+  384  ipwd
+  385  pwd
+  386  cd ..
+  387  ls
+  388  more .profile
+  389  cd usr
+  390  more .profile
+  391  cd Users/jedidahcherie
+  392  pwd
+  393  cd ..
+  394  cd Users/jedidahcherie/
+  395  more .bash_profil
+  396  more .bash_profile
+  397  more .profile
+  398  ls
+  399  emacs .bash_profile &
+  400  emacs .bash_profile 
+  401  cp .bash_profile .bash_profile_4_2104
+  402  more .profile
+  403  emacs .profile
+  404  more .profile
+  405  ligo-proxy-init jedidah.isler
+  406  source .profile
+  407  ligo-proxy-init jedidah.isler
+  408  gsissh jedidah.isler@sugar.phy.syr.edu -YAC
+  409  gsissh jedidah.isler@sugar.phy.syr.edu -YAC
+  410  gsissh jcisler@sugar.phy.syr.edu -YAC
+  411  gsissh jedidah.isler@sugar.phy.syr.edu -YAC
+  412  ldg-version
+  413  more .profile
+  414  source .profile
+  415  ldg-version
+  416  ligo-proxy-init jedidah.isler
+  417  source .profile
+  418  ligo-proxy-init jedidah.isler
+  419  gsissh sugar.phy.syr.edu
+  420  emacs .bash_profile
+  421  gsissh sugar.phy.syr.edu
+  422  gsissh sugar.phy.syr.edu
+  423  gsissh sugar.phy.syr.edu
+  424  gsissh sugar.phy.syr.edu
+  425  ligo-proxy-init jedidah.isler
+  426  gsissh sugar.phy.syr.edu
+  427  gsissh sugar.phy.syr.edu
+  428  gsissh sugar.phy.syr.edu
+  429  gsissh sugar.phy.syr.edu
+  430  gsissh sugar.phy.syr.edu
+  431  gsissh sugar.phy.syr.edu
+  432  gsissh sugar.phy.syr.edu
+  433  gsissh sugar.phy.syr.edu
+  434  gsissh sugar.phy.syr.edu
+  435  gsissh sugar.phy.syr.edu
+  436  ssh ellabaker
+  437  /anaconda/bin/ipython_mac.command ; exit;
+  438  which python
+  439  ldg-upgrade --force
+  440  which python
+  441  cd SWC2014/scripts/
+  442  emacs generate_data.sh
+  443  bash generate_data.sh
+  444  emacs generate_data.sh
+  445  bash generate_data.sh
+  446  emacs generate_data.sh
+  447  bash generate_data.sh
+  448  more file1.txt 
+  449  emacs generate_data.sh
+  450  ls *sh
+  451  emacs createappend.sh
+  452  more generate_data.sh
+  453  ls
+  454  git init
+  455  ls -a
+  456  git add generate_data.sh
+  457  git status
+  458  git commit generate.sh
+  459  git commit generate_data.sh
+  460  git commit --amend --reset-author
+  461  git config core.editor "emacs"
+  462  cat config
+  463  cd .git
+  464  cat config
+  465  cd ..
+  466  git commit generate_data.sh
+  467  pwd
+  468  git commit generate_data.sh
+  469  more .git/config 
+  470  git commit generate_data.sh
+  471  git status
+  472  git commit generate_data.sh
+  473  git log
+  474  git commit generate_data.sh
+  475  git add generate_data.sh
+  476  git log
+  477  git -am "adding all .sh files"
+  478  git add -am "adding all .sh files"
+  479  git commit -am "adding all .sh files"
+  480  pwd
+  481  ls -a
+  482  git branch
+  483  ls
+  484  cat generate_data.sh
+  485  git branch two_columns
+  486  git branch
+  487  git checkout two_columns
+  488  git branc
+  489  git branch
+  490  git status
+  491  git commit -am "made two column output in generate_data.sh"
+  492  git log
+  493  git checkout master
+  494  git branch
+  495  cat generate_data.sh
+  496  git checkout two_columns
+  497  cat generate_data.sh
+  498  git checkout master
+  499  git status
+  500  git branch
+  501  git checkout two_columns
+  502  git branch
+  503  git merge master
+  504  git branch
+  505  git checkout master
+  506  git commit -am "made two column output in generate_data.sh"
+  507  git status
+  508  git branch
+  509  git checkout master
+  510  git push
+  511  git merge two_columns
+  512  git log
+  513  cat generate_data.sh
+  514  git log
+  515  git checkout ed050
+  516  git checkout ed058
+  517  git checkout -b back_to_one_col
+  518  git status
+  519  git status
+  520  git branch
+  521  cat generate_data.sh
+  522  git commit -am "reverted back to column output in generate_data.sh"
+  523  git status
+  524  git branch
+  525  cat generate_data.sh
+  526  git checkout master
+  527  git checkout master
+  528  cat generate_data.sh
+  529  git status
+  530  git branch
+  531  history
+  532  history > SWC2014history.txt
