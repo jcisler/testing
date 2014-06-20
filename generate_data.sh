@@ -5,6 +5,7 @@
 
     touch file1.txt
 for i in {0..10} ;
+    let j=i+1
 do
-    echo $i >> file1.txt
+    echo $i $j >> file1.txt
 done
