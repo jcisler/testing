@@ -6,8 +6,10 @@
 #this is fun
 
     touch file1.txt
-for i in {0..10} ;
+for i in {0..10} ; do
     let j=i+1
-do
     echo $i $j >> file1.txt
 done
+
+awk '{print $1,$2^2}' file1.txt > tmp
+mv tmp file1.txt
